@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3592592592592593" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_baseline_arrow_forward.xml" value="0.3828125" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_baseline_bookmark_border.xml" value="0.3828125" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_baseline_clear.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_baseline_error_outline.xml" value="0.3828125" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_baseline_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_baseline_store.xml" value="0.3592592592592593" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_home.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/side_nav_bar.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/drawable/splash_activity_background.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/activity_pet_tips_fragment.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/activity_register.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/drawer_layout.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_first_pet_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_forgot_password.xml" value="0.2191780821917808" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_gallery.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_pet_details.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_pet_tips.xml" value="0.5" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_pet_tips_data.xml" value="0.33" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_profile.xml" value="0.5" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_second_pet_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_slideshow.xml" value="0.15602836879432624" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_store.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_third_pet_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/fragment_your_pets.xml" value="0.33" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/nav_header.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/nav_header_main.xml" value="0.11280487804878049" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/layout/profile_data_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/menu/activity_main_drawer.xml" value="0.3158974358974359" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/menu/drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/MyPaws/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/drawable/ic_baseline_logout.xml" value="0.2140625" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/layout/fragment_message.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/layout/fragment_profile.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/layout/fragment_store.xml" value="0.1" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/layout/nav_header.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/menu/drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dipta/AndroidStudioProjects/MyPaws/app/src/main/res/menu/menu.xml" value="0.2712962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

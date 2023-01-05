@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+        <item android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_profile"
+            android:title="Profile"/>
+
+        <item android:id="@+id/nav_your_pets"
+            android:icon="@drawable/ic_baseline_pets_24"
+            android:title="Your Pets"/>
+
+        <item android:id="@+id/nav_store"
+            android:icon="@drawable/ic_baseline_store"
+            android:title="Stores"/>
+
+
+        <item android:id="@+id/nav_pet_tips"
+            android:icon="@drawable/ic_baseline_info"
+            android:title="Pet Tips"/>
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_logout"
+                android:title="Logout"/>
+
+        </menu>
+    </item>
+
+</menu>

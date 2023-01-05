@@ -4,3 +4,7 @@ MyPaws is my first Android application project done as part of the Mobile Applic
 MyPaws is mostly a static application as most of its data were hardcoded into the application by me.
 MyPaws uses Google's Firebase and Firebase cloud database services for user authentication and data storage.
 
+# Compatability
+
+MyPaws needs minimum Android SDK API level 26 to run
+
